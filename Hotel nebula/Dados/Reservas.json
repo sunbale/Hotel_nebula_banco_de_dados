@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "rsv2025001",
+
+  "hospede_id": "hsp001",
+
+  "hospede_snapshot": {
+    "nome": "Carlos Andrade",
+    "email": "carlos.andrade@email.com",
+    "telefone": "+55 11 98765-4321"
+  },
+
+  "quarto_id": "qrt101",
+
+  "quarto_snapshot": {
+    "numero": "101",
+    "tipo": "standard",
+    "preco_diaria": 250.00
+  },
+
+  "data_checkin": "2025-04-10",
+  "data_checkout": "2025-04-14",
+  "num_noites": 4,
+  "num_hospedes": 2,
+  "valor_total": 1000.00,
+
+  "status": "confirmada",
+  "canal": "site_proprio",
+  "codigo_reserva": "HN-2025-00142",
+  "observacoes": "Solicita berço para bebê.",
+
+  "data_criacao": "2025-03-28T14:22:00Z",
+  "data_atualizacao": "2025-03-28T14:22:00Z"
+},
+
+  {
+    "_id": "rsv2025002",
+    "hospede_id": "hsp002",
+    "hospede_snapshot": {
+      "nome": "Mariana Oliveira",
+      "email": "mariana.oliveira@email.com",
+      "telefone": "+55 11 97654-3210"
+    },
+    "quarto_id": "qrt102",
+    "quarto_snapshot": {
+      "numero": "102",
+      "tipo": "standard",
+      "preco_diaria": 230.00
+    },
+    "data_checkin": "2025-04-15",
+    "data_checkout": "2025-04-18",
+    "num_noites": 3,
+    "num_hospedes": 2,
+    "valor_total": 690.00,
+    "status": "confirmada",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2025-00143",
+    "observacoes": "Solicita quarto em andar alto e cama queen.",
+    "data_criacao": "2025-04-01T10:15:00Z",
+    "data_atualizacao": "2025-04-01T10:15:00Z"
+  },
+  {
+    "_id": "rsv2025003",
+    "hospede_id": "hsp003",
+    "hospede_snapshot": {
+      "nome": "Roberto Mendes",
+      "email": "roberto.mendes@email.com",
+      "telefone": "+55 21 99876-5432"
+    },
+    "quarto_id": "qrt103",
+    "quarto_snapshot": {
+      "numero": "103",
+      "tipo": "luxo",
+      "preco_diaria": 420.00
+    },
+    "data_checkin": "2025-04-20",
+    "data_checkout": "2025-04-24",
+    "num_noites": 4,
+    "num_hospedes": 2,
+    "valor_total": 1680.00,
+    "status": "em_andamento",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2025-00144",
+    "observacoes": "Hóspede solicitou travesseiros extras.",
+    "data_criacao": "2025-04-05T13:40:00Z",
+    "data_atualizacao": "2025-04-20T12:00:00Z"
+  },
+  {
+    "_id": "rsv2025004",
+    "hospede_id": "hsp004",
+    "hospede_snapshot": {
+      "nome": "Fernanda Costa",
+      "email": "fernanda.costa@email.com",
+      "telefone": "+55 31 98712-3456"
+    },
+    "quarto_id": "qrt104",
+    "quarto_snapshot": {
+      "numero": "104",
+      "tipo": "suite",
+      "preco_diaria": 650.00
+    },
+    "data_checkin": "2025-05-02",
+    "data_checkout": "2025-05-07",
+    "num_noites": 5,
+    "num_hospedes": 3,
+    "valor_total": 3250.00,
+    "status": "confirmada",
+    "canal": "agencia",
+    "codigo_reserva": "HN-2025-00145",
+    "observacoes": "Prefere suíte com cama king e banheira.",
+    "data_criacao": "2025-04-10T09:30:00Z",
+    "data_atualizacao": "2025-04-10T09:30:00Z"
+  },
+  {
+    "_id": "rsv2025005",
+    "hospede_id": "hsp005",
+    "hospede_snapshot": {
+      "nome": "André Martins",
+      "email": "andre.martins@email.com",
+      "telefone": "+55 41 99123-4567"
+    },
+    "quarto_id": "qrt105",
+    "quarto_snapshot": {
+      "numero": "105",
+      "tipo": "standard",
+      "preco_diaria": 210.00
+    },
+    "data_checkin": "2025-05-10",
+    "data_checkout": "2025-05-12",
+    "num_noites": 2,
+    "num_hospedes": 2,
+    "valor_total": 420.00,
+    "status": "cancelada",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2025-00146",
+    "observacoes": "Reserva cancelada pelo hóspede antes do check-in.",
+    "data_criacao": "2025-04-15T15:20:00Z",
+    "data_atualizacao": "2025-05-01T11:10:00Z"
+  },
+  {
+    "_id": "rsv2025006",
+    "hospede_id": "hsp006",
+    "hospede_snapshot": {
+      "nome": "Isabella Santos",
+      "email": "isabella.santos@email.com",
+      "telefone": "+55 71 98567-1234"
+    },
+    "quarto_id": "qrt106",
+    "quarto_snapshot": {
+      "numero": "106",
+      "tipo": "luxo",
+      "preco_diaria": 480.00
+    },
+    "data_checkin": "2025-06-05",
+    "data_checkout": "2025-06-08",
+    "num_noites": 3,
+    "num_hospedes": 1,
+    "valor_total": 1440.00,
+    "status": "confirmada",
+    "canal": "aplicativo",
+    "codigo_reserva": "HN-2025-00147",
+    "observacoes": "Solicita quarto com varanda e cama de solteiro.",
+    "data_criacao": "2025-05-12T14:50:00Z",
+    "data_atualizacao": "2025-05-12T14:50:00Z"
+  },
+  {
+    "_id": "rsv2025007",
+    "hospede_id": "hsp007",
+    "hospede_snapshot": {
+      "nome": "Lucas Ferreira",
+      "email": "lucas.ferreira@email.com",
+      "telefone": "+55 51 99456-7890"
+    },
+    "quarto_id": "qrt107",
+    "quarto_snapshot": {
+      "numero": "107",
+      "tipo": "suite",
+      "preco_diaria": 720.00
+    },
+    "data_checkin": "2025-06-15",
+    "data_checkout": "2025-06-20",
+    "num_noites": 5,
+    "num_hospedes": 2,
+    "valor_total": 3600.00,
+    "status": "confirmada",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2025-00148",
+    "observacoes": "Solicita suíte com cama king e varanda. Hóspede prefere ambiente para fumantes.",
+    "data_criacao": "2025-05-20T16:25:00Z",
+    "data_atualizacao": "2025-05-20T16:25:00Z"
+  }
+]

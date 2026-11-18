@@ -1,0 +1,149 @@
+[
+{
+  "_id": "svc003",
+  "nome": "Café da manhã",
+  "categoria": "alimentacao",
+  "descricao": "Café da manhã completo no restaurante do hotel.",
+  "preco": 45.00,
+  "unidade": "pessoa",
+  "disponivel": true,
+
+  "horario_disponivel": {
+    "inicio": "06:30",
+    "fim": "10:30"
+  },
+
+  "tags": [
+    "incluso_suite",
+    "buffet",
+    "opcao_vegana"
+  ]
+},
+  {
+    "_id": "svc006",
+    "nome": "Estacionamento",
+    "categoria": "comodidade",
+    "descricao": "Vaga de estacionamento privativa para veículos dos hóspedes.",
+    "preco": 35.00,
+    "unidade": "diaria",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "estacionamento",
+      "seguranca",
+      "veiculos"
+    ]
+  },
+  {
+    "_id": "svc007",
+    "nome": "Spa",
+    "categoria": "bem_estar",
+    "descricao": "Sessão de relaxamento com massagens e tratamentos corporais.",
+    "preco": 150.00,
+    "unidade": "sessao",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "09:00",
+      "fim": "20:00"
+    },
+    "tags": [
+      "relaxamento",
+      "massagem",
+      "bem_estar"
+    ]
+  },
+  {
+    "_id": "svc009",
+    "nome": "Room service",
+    "categoria": "alimentacao",
+    "descricao": "Serviço de entrega de refeições e bebidas diretamente no quarto.",
+    "preco": 65.00,
+    "unidade": "pedido",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "07:00",
+      "fim": "23:00"
+    },
+    "tags": [
+      "entrega_no_quarto",
+      "cardapio",
+      "conveniencia"
+    ]
+  },
+  {
+    "_id": "svc011",
+    "nome": "Lavanderia",
+    "categoria": "comodidade",
+    "descricao": "Serviço de lavagem, secagem e passagem de roupas dos hóspedes.",
+    "preco": 80.00,
+    "unidade": "servico",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "08:00",
+      "fim": "18:00"
+    },
+    "tags": [
+      "lavagem",
+      "secagem",
+      "passadoria"
+    ]
+  },
+  {
+    "_id": "svc012",
+    "nome": "Transfer aeroporto",
+    "categoria": "transporte",
+    "descricao": "Transporte privativo entre o hotel e o aeroporto.",
+    "preco": 120.00,
+    "unidade": "viagem",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "transporte",
+      "aeroporto",
+      "privativo"
+    ]
+  },
+  {
+    "_id": "svc013",
+    "nome": "Academia",
+    "categoria": "bem_estar",
+    "descricao": "Acesso à academia do hotel, equipada com aparelhos para exercícios físicos.",
+    "preco": 30.00,
+    "unidade": "pessoa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "06:00",
+      "fim": "22:00"
+    },
+    "tags": [
+      "atividade_fisica",
+      "musculacao",
+      "saude"
+    ]
+  },
+  {
+    "_id": "svc014",
+    "nome": "Aluguel de sala de reuniões",
+    "categoria": "eventos",
+    "descricao": "Locação de sala equipada com mesa, cadeiras, projetor e internet para reuniões corporativas.",
+    "preco": 200.00,
+    "unidade": "hora",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "08:00",
+      "fim": "20:00"
+    },
+    "tags": [
+      "reuniao",
+      "corporativo",
+      "projetor",
+      "wifi"
+    ]
+  }
+]

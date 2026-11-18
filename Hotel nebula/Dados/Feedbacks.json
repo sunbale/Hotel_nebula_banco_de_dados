@@ -1,0 +1,165 @@
+
+[
+    {
+  "_id": "fdb2025001",
+
+  "hospede_id": "hsp001",
+  "hospedagem_id": "hpd2025001",
+  "quarto_id": "qrt101",
+
+  "data_avaliacao": "2025-04-15T09:00:00Z",
+
+  "nota_geral": 4.5,
+
+  "notas_detalhadas": {
+    "limpeza": 5,
+    "atendimento": 5,
+    "conforto": 4,
+    "custo_beneficio": 4,
+    "localizacao": 5
+  },
+
+  "comentario": "Ótima estadia! A equipe foi muito atenciosa.",
+
+  "resposta_hotel": {
+    "texto": "Obrigado pelo feedback, Carlos!",
+    "data": "2025-04-16T10:30:00Z",
+    "funcionario_id": "fnc005"
+  },
+
+  "visivel": true
+},
+
+  {
+    "_id": "fdb2025002",
+    "hospede_id": "hsp002",
+    "hospedagem_id": "hpd2025002",
+    "quarto_id": "qrt102",
+    "data_avaliacao": "2025-04-19T09:30:00Z",
+    "nota_geral": 4.8,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5,
+      "custo_beneficio": 4,
+      "localizacao": 5
+    },
+    "comentario": "Adorei a estadia! O quarto estava muito limpo e a equipe foi extremamente atenciosa. O café da manhã também estava excelente.",
+    "resposta_hotel": {
+      "texto": "Muito obrigado pela avaliação, Mariana! Ficamos felizes que tenha aproveitado sua estadia. Esperamos recebê-la novamente!",
+      "data": "2025-04-20T10:00:00Z",
+      "funcionario_id": "fnc005"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fdb2025003",
+    "hospede_id": "hsp003",
+    "hospedagem_id": "hpd2025003",
+    "quarto_id": "qrt103",
+    "data_avaliacao": "2025-04-25T11:00:00Z",
+    "nota_geral": 4.2,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "atendimento": 5,
+      "conforto": 5,
+      "custo_beneficio": 3,
+      "localizacao": 4
+    },
+    "comentario": "O quarto era confortável e o atendimento foi excelente. Porém, achei alguns serviços adicionais um pouco caros.",
+    "resposta_hotel": {
+      "texto": "Agradecemos por compartilhar sua experiência, Roberto! Sua observação sobre os preços dos serviços será encaminhada à nossa administração.",
+      "data": "2025-04-26T09:15:00Z",
+      "funcionario_id": "fnc001"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fdb2025004",
+    "hospede_id": "hsp004",
+    "hospedagem_id": "hpd2025004",
+    "quarto_id": "qrt104",
+    "data_avaliacao": "2025-05-08T14:00:00Z",
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5,
+      "custo_beneficio": 5,
+      "localizacao": 5
+    },
+    "comentario": "Experiência maravilhosa! A suíte era espaçosa, os serviços foram excelentes e todos os funcionários foram muito educados. Pretendo voltar!",
+    "resposta_hotel": {
+      "texto": "Que alegria receber sua avaliação, Fernanda! Agradecemos pela preferência e esperamos sua próxima visita!",
+      "data": "2025-05-09T10:20:00Z",
+      "funcionario_id": "fnc005"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fdb2025005",
+    "hospede_id": "hsp005",
+    "hospedagem_id": "hpd2025005",
+    "quarto_id": "qrt105",
+    "data_avaliacao": "2025-05-12T10:00:00Z",
+    "nota_geral": 2.0,
+    "notas_detalhadas": {
+      "limpeza": 3,
+      "atendimento": 2,
+      "conforto": 2,
+      "custo_beneficio": 2,
+      "localizacao": 1
+    },
+    "comentario": "Minha reserva precisou ser cancelada antes da chegada. Tive dificuldades durante o atendimento e não fiquei satisfeito com a experiência de suporte.",
+    "resposta_hotel": {
+      "texto": "Pedimos desculpas pelos transtornos, André. Gostaríamos de entender melhor o ocorrido para melhorar nosso atendimento.",
+      "data": "2025-05-13T08:45:00Z",
+      "funcionario_id": "fnc004"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fdb2025006",
+    "hospede_id": "hsp006",
+    "hospedagem_id": "hpd2025006",
+    "quarto_id": "qrt106",
+    "data_avaliacao": "2025-06-09T09:00:00Z",
+    "nota_geral": 4.6,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 4,
+      "conforto": 5,
+      "custo_beneficio": 4,
+      "localizacao": 5
+    },
+    "comentario": "Gostei bastante do hotel. O quarto era confortável e estava bem organizado. Os serviços de alimentação também foram muito bons.",
+    "resposta_hotel": {
+      "texto": "Obrigado pela avaliação, Isabella! É muito bom saber que você aproveitou nossos serviços. Será um prazer recebê-la novamente!",
+      "data": "2025-06-10T11:30:00Z",
+      "funcionario_id": "fnc002"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fdb2025007",
+    "hospede_id": "hsp007",
+    "hospedagem_id": "hpd2025007",
+    "quarto_id": "qrt107",
+    "data_avaliacao": "2025-06-21T15:00:00Z",
+    "nota_geral": 3.8,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "atendimento": 4,
+      "conforto": 5,
+      "custo_beneficio": 3,
+      "localizacao": 3
+    },
+    "comentario": "O quarto era muito confortável e gostei bastante da estrutura do hotel. Entretanto, os preços de alguns serviços poderiam ser melhores.",
+    "resposta_hotel": {
+      "texto": "Agradecemos pelo feedback, Lucas! Ficamos felizes que tenha gostado do conforto do quarto. Vamos considerar suas sugestões sobre os preços.",
+      "data": "2025-06-22T09:00:00Z",
+      "funcionario_id": "fnc001"
+    },
+    "visivel": true
+  }
+]

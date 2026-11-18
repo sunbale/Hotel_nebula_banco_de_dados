@@ -1,0 +1,217 @@
+[
+  {
+    "_id": "qrt101",
+    "numero": "101",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 2,
+    "preco_diaria": 250.00,
+    "descricao": "Quarto padrão com vista para o jardim interno.",
+    "comodidades": [
+      "ar-condicionado",
+      "tv 42\"",
+      "frigobar",
+      "wifi",
+      "cofre"
+    ],
+    "caracteristicas": {
+      "vista": "jardim",
+      "banheira": false,
+      "varanda": false,
+      "area_m2": 28
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/101/foto1.jpg",
+      "https://storage.hotelnebula.com/quartos/101/foto2.jpg"
+    ],
+    "ultima_limpeza": "2025-03-31T08:00:00Z"
+  },
+  {
+    "_id": "qrt102",
+    "numero": "102",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 2,
+    "preco_diaria": 230.00,
+    "descricao": "Quarto padrão confortável com vista para a área externa do hotel.",
+    "comodidades": [
+      "ar-condicionado",
+      "tv 42\"",
+      "frigobar",
+      "wifi",
+      "cofre"
+    ],
+    "caracteristicas": {
+      "vista": "externa",
+      "banheira": false,
+      "varanda": false,
+      "area_m2": 26
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/102/foto1.jpg",
+      "https://storage.hotelnebula.com/quartos/102/foto2.jpg"
+    ],
+    "ultima_limpeza": "2025-03-30T09:00:00Z"
+  },
+  {
+    "_id": "qrt103",
+    "numero": "103",
+    "andar": 1,
+    "tipo": "luxo",
+    "categoria": "premium",
+    "capacidade_max": 3,
+    "preco_diaria": 420.00,
+    "descricao": "Quarto de luxo com decoração moderna e vista para o jardim do hotel.",
+    "comodidades": [
+      "ar-condicionado",
+      "tv 50\"",
+      "frigobar",
+      "wifi",
+      "cofre",
+      "cafeteira",
+      "servico_de_quarto"
+    ],
+    "caracteristicas": {
+      "vista": "jardim",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 35
+    },
+    "status": "ocupado",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/103/foto1.jpg",
+      "https://storage.hotelnebula.com/quartos/103/foto2.jpg"
+    ],
+    "ultima_limpeza": "2025-03-29T10:30:00Z"
+  },
+  {
+    "_id": "qrt104",
+    "numero": "104",
+    "andar": 1,
+    "tipo": "suite",
+    "categoria": "luxo",
+    "capacidade_max": 4,
+    "preco_diaria": 650.00,
+    "descricao": "Suíte espaçosa com cama king, sala de estar e banheira para maior conforto.",
+    "comodidades": [
+      "ar-condicionado",
+      "tv 55\"",
+      "frigobar",
+      "wifi",
+      "cofre",
+      "cafeteira",
+      "banheira",
+      "sala_de_estar",
+      "servico_de_quarto"
+    ],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 48
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/104/foto1.jpg",
+      "https://storage.hotelnebula.com/quartos/104/foto2.jpg"
+    ],
+    "ultima_limpeza": "2025-03-31T07:45:00Z"
+  },
+  {
+    "_id": "qrt105",
+    "numero": "105",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 2,
+    "preco_diaria": 210.00,
+    "descricao": "Quarto econômico com ambiente simples, funcional e confortável.",
+    "comodidades": [
+      "ar-condicionado",
+      "tv 40\"",
+      "wifi",
+      "frigobar"
+    ],
+    "caracteristicas": {
+      "vista": "interna",
+      "banheira": false,
+      "varanda": false,
+      "area_m2": 24
+    },
+    "status": "manutencao",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/105/foto1.jpg",
+      "https://storage.hotelnebula.com/quartos/105/foto2.jpg"
+    ],
+    "ultima_limpeza": "2025-03-28T08:30:00Z"
+  },
+  {
+    "_id": "qrt106",
+    "numero": "106",
+    "andar": 1,
+    "tipo": "luxo",
+    "categoria": "premium",
+    "capacidade_max": 3,
+    "preco_diaria": 480.00,
+    "descricao": "Quarto premium com varanda privativa e vista para a cidade.",
+    "comodidades": [
+      "ar-condicionado",
+      "tv 50\"",
+      "frigobar",
+      "wifi",
+      "cofre",
+      "cafeteira",
+      "secador_de_cabelo"
+    ],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": false,
+      "varanda": true,
+      "area_m2": 38
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/106/foto1.jpg",
+      "https://storage.hotelnebula.com/quartos/106/foto2.jpg"
+    ],
+    "ultima_limpeza": "2025-03-31T09:15:00Z"
+  },
+  {
+    "_id": "qrt107",
+    "numero": "107",
+    "andar": 1,
+    "tipo": "suite",
+    "categoria": "luxo",
+    "capacidade_max": 4,
+    "preco_diaria": 720.00,
+    "descricao": "Suíte ampla com varanda, cama king e vista panorâmica para a cidade.",
+    "comodidades": [
+      "ar-condicionado",
+      "tv 60\"",
+      "frigobar",
+      "wifi",
+      "cofre",
+      "cafeteira",
+      "banheira",
+      "sala_de_estar",
+      "servico_de_quarto",
+      "secador_de_cabelo"
+    ],
+    "caracteristicas": {
+      "vista": "panoramica",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 55
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/107/foto1.jpg",
+      "https://storage.hotelnebula.com/quartos/107/foto2.jpg"
+    ],
+    "ultima_limpeza": "2025-03-31T10:00:00Z"
+  }
+]

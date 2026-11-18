@@ -1,0 +1,255 @@
+[
+  {
+    "_id": "hpd2025001",
+
+    "reserva_id": "rsv2024001",
+    "hospede_id": "hsp001",
+    "quarto_id": "qrt101",
+
+    "checkin_real": "2025-04-10T14:35:00Z",
+    "checkout_real": "2025-04-14T11:10:00Z",
+
+    "status": "encerrada",
+
+    "funcionario_checkin_id": "fnc005",
+    "funcionario_checkout_id": "fnc008",
+
+    "servicos_consumidos": [
+      {
+        "servico_id": "svc003",
+        "nome": "Café da manhã",
+        "quantidade": 2,
+        "preco_unitario": 45.00,
+        "total": 90.00,
+        "data": "2025-04-11T08:15:00Z"
+      },
+      {
+        "servico_id": "svc011",
+        "nome": "Lavanderia",
+        "quantidade": 1,
+        "preco_unitario": 80.00,
+        "total": 80.00,
+        "data": "2025-04-12T10:00:00Z"
+      }
+    ],
+
+    "total_servicos": 170.00,
+    "total_diarias": 1000.00,
+    "total_geral": 1170.00,
+
+    "observacoes": "Hóspede solicitou late checkout, atendido."
+  },
+  {
+    "_id": "hpd2025002",
+    "reserva_id": "rsv2025002",
+    "hospede_id": "hsp002",
+    "quarto_id": "qrt102",
+    "checkin_real": "2025-04-15T14:20:00Z",
+    "checkout_real": "2025-04-18T11:30:00Z",
+    "status": "encerrada",
+    "funcionario_checkin_id": "fnc002",
+    "funcionario_checkout_id": "fnc004",
+    "servicos_consumidos": [
+      {
+        "servico_id": "svc003",
+        "nome": "Café da manhã",
+        "quantidade": 2,
+        "preco_unitario": 45.00,
+        "total": 90.00,
+        "data": "2025-04-16T08:00:00Z"
+      },
+      {
+        "servico_id": "svc011",
+        "nome": "Lavanderia",
+        "quantidade": 1,
+        "preco_unitario": 80.00,
+        "total": 80.00,
+        "data": "2025-04-17T10:30:00Z"
+      }
+    ],
+    "total_servicos": 170.00,
+    "total_diarias": 690.00,
+    "total_geral": 860.00,
+    "observacoes": "Hóspede solicitou travesseiros adicionais durante a estadia."
+  },
+  {
+    "_id": "hpd2025003",
+    "reserva_id": "rsv2025003",
+    "hospede_id": "hsp003",
+    "quarto_id": "qrt103",
+    "checkin_real": "2025-04-20T13:50:00Z",
+    "checkout_real": "2025-04-24T11:15:00Z",
+    "status": "encerrada",
+    "funcionario_checkin_id": "fnc005",
+    "funcionario_checkout_id": "fnc008",
+    "servicos_consumidos": [
+      {
+        "servico_id": "svc003",
+        "nome": "Café da manhã",
+        "quantidade": 4,
+        "preco_unitario": 45.00,
+        "total": 180.00,
+        "data": "2025-04-21T08:30:00Z"
+      },
+      {
+        "servico_id": "svc006",
+        "nome": "Estacionamento",
+        "quantidade": 4,
+        "preco_unitario": 35.00,
+        "total": 140.00,
+        "data": "2025-04-20T14:00:00Z"
+      },
+      {
+        "servico_id": "svc011",
+        "nome": "Lavanderia",
+        "quantidade": 2,
+        "preco_unitario": 80.00,
+        "total": 160.00,
+        "data": "2025-04-22T09:45:00Z"
+      }
+    ],
+    "total_servicos": 480.00,
+    "total_diarias": 1680.00,
+    "total_geral": 2160.00,
+    "observacoes": "Hóspede utilizou estacionamento durante toda a estadia e solicitou serviço de lavanderia."
+  },
+  {
+    "_id": "hpd2025004",
+    "reserva_id": "rsv2025004",
+    "hospede_id": "hsp004",
+    "quarto_id": "qrt104",
+    "checkin_real": "2025-05-02T14:10:00Z",
+    "checkout_real": "2025-05-07T10:45:00Z",
+    "status": "encerrada",
+    "funcionario_checkin_id": "fnc001",
+    "funcionario_checkout_id": "fnc006",
+    "servicos_consumidos": [
+      {
+        "servico_id": "svc003",
+        "nome": "Café da manhã",
+        "quantidade": 10,
+        "preco_unitario": 45.00,
+        "total": 450.00,
+        "data": "2025-05-03T08:15:00Z"
+      },
+      {
+        "servico_id": "svc007",
+        "nome": "Spa",
+        "quantidade": 2,
+        "preco_unitario": 150.00,
+        "total": 300.00,
+        "data": "2025-05-04T15:00:00Z"
+      },
+      {
+        "servico_id": "svc009",
+        "nome": "Room service",
+        "quantidade": 3,
+        "preco_unitario": 65.00,
+        "total": 195.00,
+        "data": "2025-05-05T20:30:00Z"
+      }
+    ],
+    "total_servicos": 945.00,
+    "total_diarias": 3250.00,
+    "total_geral": 4195.00,
+    "observacoes": "Hóspede utilizou os serviços de spa e room service durante a hospedagem."
+  },
+  {
+    "_id": "hpd2025005",
+    "reserva_id": "rsv2025005",
+    "hospede_id": "hsp005",
+    "quarto_id": "qrt105",
+    "checkin_real": null,
+    "checkout_real": null,
+    "status": "cancelada",
+    "funcionario_checkin_id": null,
+    "funcionario_checkout_id": null,
+    "servicos_consumidos": [],
+    "total_servicos": 0.00,
+    "total_diarias": 0.00,
+    "total_geral": 0.00,
+    "observacoes": "Reserva cancelada antes da chegada do hóspede. Nenhum serviço foi consumido."
+  },
+  {
+    "_id": "hpd2025006",
+    "reserva_id": "rsv2025006",
+    "hospede_id": "hsp006",
+    "quarto_id": "qrt106",
+    "checkin_real": "2025-06-05T14:25:00Z",
+    "checkout_real": "2025-06-08T11:00:00Z",
+    "status": "encerrada",
+    "funcionario_checkin_id": "fnc003",
+    "funcionario_checkout_id": "fnc007",
+    "servicos_consumidos": [
+      {
+        "servico_id": "svc003",
+        "nome": "Café da manhã",
+        "quantidade": 3,
+        "preco_unitario": 45.00,
+        "total": 135.00,
+        "data": "2025-06-06T08:10:00Z"
+      },
+      {
+        "servico_id": "svc009",
+        "nome": "Room service",
+        "quantidade": 2,
+        "preco_unitario": 65.00,
+        "total": 130.00,
+        "data": "2025-06-06T21:00:00Z"
+      }
+    ],
+    "total_servicos": 265.00,
+    "total_diarias": 1440.00,
+    "total_geral": 1705.00,
+    "observacoes": "Hóspede solicitou atendimento no quarto e realizou checkout no horário previsto."
+  },
+  {
+    "_id": "hpd2025007",
+    "reserva_id": "rsv2025007",
+    "hospede_id": "hsp007",
+    "quarto_id": "qrt107",
+    "checkin_real": "2025-06-15T15:00:00Z",
+    "checkout_real": "2025-06-20T12:30:00Z",
+    "status": "encerrada",
+    "funcionario_checkin_id": "fnc005",
+    "funcionario_checkout_id": "fnc002",
+    "servicos_consumidos": [
+      {
+        "servico_id": "svc003",
+        "nome": "Café da manhã",
+        "quantidade": 10,
+        "preco_unitario": 45.00,
+        "total": 450.00,
+        "data": "2025-06-16T08:00:00Z"
+      },
+      {
+        "servico_id": "svc007",
+        "nome": "Spa",
+        "quantidade": 2,
+        "preco_unitario": 150.00,
+        "total": 300.00,
+        "data": "2025-06-17T16:00:00Z"
+      },
+      {
+        "servico_id": "svc011",
+        "nome": "Lavanderia",
+        "quantidade": 2,
+        "preco_unitario": 80.00,
+        "total": 160.00,
+        "data": "2025-06-18T10:00:00Z"
+      },
+      {
+        "servico_id": "svc009",
+        "nome": "Room service",
+        "quantidade": 2,
+        "preco_unitario": 65.00,
+        "total": 130.00,
+        "data": "2025-06-19T20:15:00Z"
+      }
+    ],
+    "total_servicos": 1040.00,
+    "total_diarias": 3600.00,
+    "total_geral": 4640.00,
+    "observacoes": "Hóspede utilizou serviços de spa, lavanderia e room service. Checkout realizado com atraso autorizado."
+  }
+]

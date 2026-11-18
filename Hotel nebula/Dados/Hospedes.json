@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "ObjectId('hsp001')",
+    "nome": "Carlos Andrade",
+    "cpf": "123.456.789-00",
+    "email": "carlos.andrade@email.com",
+    "telefone": "+55 11 98765-4321",
+    "data_nascimento": "1985-03-22",
+    "nacionalidade": "Brasileiro",
+    "endereco": {
+      "logradouro": "Rua das Palmeiras, 142",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01310-100",
+      "pais": "Brasil"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king"
+    },
+    "data_cadastro": "2024-01-15T10:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "ObjectId('hsp002')",
+    "nome": "Mariana Oliveira",
+    "cpf": "234.567.890-12",
+    "email": "mariana.oliveira@email.com",
+    "telefone": "+55 11 97654-3210",
+    "data_nascimento": "1992-07-14",
+    "nacionalidade": "Brasileira",
+    "endereco": {
+      "logradouro": "Avenida Paulista, 850",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01310-100",
+      "pais": "Brasil"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "queen"
+    },
+    "data_cadastro": "2024-02-10T14:20:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "ObjectId('hsp003')",
+    "nome": "Roberto Mendes",
+    "cpf": "345.678.901-23",
+    "email": "roberto.mendes@email.com",
+    "telefone": "+55 21 99876-5432",
+    "data_nascimento": "1978-11-05",
+    "nacionalidade": "Brasileiro",
+    "endereco": {
+      "logradouro": "Rua Copacabana, 215",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22020-001",
+      "pais": "Brasil"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "casal"
+    },
+    "data_cadastro": "2024-03-18T09:15:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "ObjectId('hsp004')",
+    "nome": "Fernanda Costa",
+    "cpf": "456.789.012-34",
+    "email": "fernanda.costa@email.com",
+    "telefone": "+55 31 98712-3456",
+    "data_nascimento": "1995-04-28",
+    "nacionalidade": "Brasileira",
+    "endereco": {
+      "logradouro": "Avenida Afonso Pena, 1200",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "30130-003",
+      "pais": "Brasil"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king"
+    },
+    "data_cadastro": "2024-04-22T16:45:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "ObjectId('hsp005')",
+    "nome": "André Martins",
+    "cpf": "567.890.123-45",
+    "email": "andre.martins@email.com",
+    "telefone": "+55 41 99123-4567",
+    "data_nascimento": "1988-09-12",
+    "nacionalidade": "Brasileiro",
+    "endereco": {
+      "logradouro": "Rua XV de Novembro, 430",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "80020-310",
+      "pais": "Brasil"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "queen"
+    },
+    "data_cadastro": "2024-05-07T11:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "ObjectId('hsp006')",
+    "nome": "Isabella Santos",
+    "cpf": "678.901.234-56",
+    "email": "isabella.santos@email.com",
+    "telefone": "+55 71 98567-1234",
+    "data_nascimento": "2000-01-19",
+    "nacionalidade": "Brasileira",
+    "endereco": {
+      "logradouro": "Avenida Oceânica, 150",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "40140-130",
+      "pais": "Brasil"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro"
+    },
+    "data_cadastro": "2024-06-12T13:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "ObjectId('hsp007')",
+    "nome": "Lucas Ferreira",
+    "cpf": "789.012.345-67",
+    "email": "lucas.ferreira@email.com",
+    "telefone": "+55 51 99456-7890",
+    "data_nascimento": "1982-12-03",
+    "nacionalidade": "Brasileiro",
+    "endereco": {
+      "logradouro": "Rua dos Andradas, 780",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "90020-005",
+      "pais": "Brasil"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": true,
+      "cama": "king"
+    },
+    "data_cadastro": "2024-07-25T08:45:00Z",
+    "ativo": false
+  }
+]

@@ -1,0 +1,164 @@
+
+[
+  {
+    "_id": "pgt2025001",
+    "hospedagem_id": "hpd2025001",
+    "reserva_id": "rsv2024001",
+    "hospede_id": "hsp001",
+    "valor_total": 1245.00,
+    "status": "pago",
+    "data_pagamento": "2025-04-14T11:05:00Z",
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 1000.00,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-VISA-00392"
+      },
+      {
+        "metodo": "pix",
+        "valor": 245.00,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00841"
+      }
+    ],
+    "nota_fiscal": "NF-e 000421",
+    "data_criacao": "2025-04-14T11:05:00Z"
+  },
+  {
+    "_id": "pgt2025002",
+    "hospedagem_id": "hpd2025002",
+    "reserva_id": "rsv2025002",
+    "hospede_id": "hsp002",
+    "valor_total": 860.00,
+    "status": "pago",
+    "data_pagamento": "2025-04-18T11:30:00Z",
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Mastercard",
+        "valor": 600.00,
+        "num_parcelas": 2,
+        "status": "aprovado",
+        "transacao_id": "TXN-MAST-00251"
+      },
+      {
+        "metodo": "pix",
+        "valor": 260.00,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00252"
+      }
+    ],
+    "nota_fiscal": "NF-e 000422",
+    "data_criacao": "2025-04-18T11:30:00Z"
+  },
+  {
+    "_id": "pgt2025003",
+    "hospedagem_id": "hpd2025003",
+    "reserva_id": "rsv2025003",
+    "hospede_id": "hsp003",
+    "valor_total": 2160.00,
+    "status": "pago",
+    "data_pagamento": "2025-04-24T11:15:00Z",
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 2160.00,
+        "num_parcelas": 3,
+        "status": "aprovado",
+        "transacao_id": "TXN-VISA-00253"
+      }
+    ],
+    "nota_fiscal": "NF-e 000423",
+    "data_criacao": "2025-04-24T11:15:00Z"
+  },
+  {
+    "_id": "pgt2025004",
+    "hospedagem_id": "hpd2025004",
+    "reserva_id": "rsv2025004",
+    "hospede_id": "hsp004",
+    "valor_total": 4195.00,
+    "status": "pago",
+    "data_pagamento": "2025-05-07T10:45:00Z",
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Mastercard",
+        "valor": 3000.00,
+        "num_parcelas": 5,
+        "status": "aprovado",
+        "transacao_id": "TXN-MAST-00254"
+      },
+      {
+        "metodo": "pix",
+        "valor": 1195.00,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00255"
+      }
+    ],
+    "nota_fiscal": "NF-e 000424",
+    "data_criacao": "2025-05-07T10:45:00Z"
+  },
+  {
+    "_id": "pgt2025005",
+    "hospedagem_id": "hpd2025005",
+    "reserva_id": "rsv2025005",
+    "hospede_id": "hsp005",
+    "valor_total": 0.00,
+    "status": "cancelado",
+    "data_pagamento": null,
+    "parcelas": [],
+    "nota_fiscal": null,
+    "data_criacao": "2025-05-01T11:10:00Z"
+  },
+  {
+    "_id": "pgt2025006",
+    "hospedagem_id": "hpd2025006",
+    "reserva_id": "rsv2025006",
+    "hospede_id": "hsp006",
+    "valor_total": 1705.00,
+    "status": "pago",
+    "data_pagamento": "2025-06-08T11:00:00Z",
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 705.00,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00256"
+      },
+      {
+        "metodo": "cartao_debito",
+        "bandeira": "Elo",
+        "valor": 1000.00,
+        "status": "aprovado",
+        "transacao_id": "TXN-ELO-00257"
+      }
+    ],
+    "nota_fiscal": "NF-e 000425",
+    "data_criacao": "2025-06-08T11:00:00Z"
+  },
+  {
+    "_id": "pgt2025007",
+    "hospedagem_id": "hpd2025007",
+    "reserva_id": "rsv2025007",
+    "hospede_id": "hsp007",
+    "valor_total": 4640.00,
+    "status": "pendente",
+    "data_pagamento": null,
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 4640.00,
+        "num_parcelas": 4,
+        "status": "pendente",
+        "transacao_id": "TXN-VISA-00258"
+      }
+    ],
+    "nota_fiscal": null,
+    "data_criacao": "2025-06-20T12:30:00Z"
+  }
+]
